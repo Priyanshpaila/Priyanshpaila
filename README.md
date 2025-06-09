@@ -36,7 +36,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,flutter,dart,html,css,bootstrap,mysql,git,github,chatgpt" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,flutter,dart,html,css,bootstrap,mysql,git,github,vscode" />
 </p>
 
 ---
