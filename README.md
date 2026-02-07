@@ -113,15 +113,13 @@
 
 ---
 
+
+
 ## 🧩 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=BMPL&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <!-- ✅ IMPORTANT: repo names can't contain '.' at the end in URL.
-       If your repo is actually "TaskFlow", use repo=TaskFlow
-       If it is "TaskFlow." rename the repo (recommended) or use exact repo name without trailing dot (often GitHub disallows it).
-  -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=TaskFlow&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshpaila&repo=BMPL&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshpaila&repo=TaskFlow&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
