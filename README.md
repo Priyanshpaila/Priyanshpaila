@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=React+%2B+Flutter+Developer+in+progress+⚡;UI%2FUX+%2B+Clean+Design+%2B+Smooth+Animations+✨;Building+projects%2C+shipping+features%2C+learning+daily+🚀;Open+to+collaboration+and+frontend+challenges+🤝"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=00BFFF&center=true&vCenter=true&width=1200&lines=React+%2B+Flutter+Developer+in+progress+⚡;UI%2FUX+%2B+Clean+Design+%2B+Smooth+Animations+✨;Building+projects%2C+shipping+features%2C+learning+daily+🚀;Open+to+collaboration+and+frontend+challenges+🤝"
     alt="Typing SVG"
   />
 </p>
