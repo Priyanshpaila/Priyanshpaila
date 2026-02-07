@@ -11,8 +11,10 @@
 <h3 align="center">💻 Frontend Enthusiast • 🧠 Lifelong Learner • 🇮🇳 Based in India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=React+%2B+Flutter+Developer+in+progress+⚡;UI%2FUX+%2B+Clean+Design+%2B+Smooth+Animations+✨;Building+projects%2C+shipping+features%2C+learning+daily+🚀;Open+to+collaboration+and+frontend+challenges+🤝"
-    alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=React+%2B+Flutter+Developer+in+progress+⚡;UI%2FUX+%2B+Clean+Design+%2B+Smooth+Animations+✨;Building+projects%2C+shipping+features%2C+learning+daily+🚀;Open+to+collaboration+and+frontend+challenges+🤝"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
@@ -45,7 +47,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <!-- Update LinkedIn URL to your correct slug -->
   <a href="https://www.linkedin.com/in/priyanshpaila/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
@@ -73,6 +74,7 @@
 - **Programming:** C++, JavaScript (and learning TS)  
 - **Tools:** Git/GitHub, VS Code  
 - **DB:** MySQL  
+
 </details>
 
 ---
@@ -82,12 +84,13 @@
 ## 📊 GitHub Analytics (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshpaila&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpaila&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshpaila&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpaila&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshpaila&theme=tokyonight&hide_border=true" height="180" />
+  <!-- ✅ FIXED URL: streak needs /?user= -->
+  <img src="https://streak-stats.demolab.com/?user=priyanshpaila&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
@@ -110,23 +113,23 @@
 
 ---
 
-## 🧩 Featured Projects (Optional)
+## 🧩 Featured Projects
 
-<!-- Replace repo names if you want to show pinned cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=BMPL&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=TaskFlow.&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=BMPL&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <!-- ✅ IMPORTANT: repo names can't contain '.' at the end in URL.
+       If your repo is actually "TaskFlow", use repo=TaskFlow
+       If it is "TaskFlow." rename the repo (recommended) or use exact repo name without trailing dot (often GitHub disallows it).
+  -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=TaskFlow&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Optional Animated)
-
-> This needs a GitHub Action workflow to generate the snake SVG.
-> After setup, this animation will work automatically.
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyanshpaila/priyanshpaila/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/priyanshpaila/priyanshpaila/output/github-contribution-grid-snake.svg?v=1" alt="snake animation" />
 </p>
 
 ---
