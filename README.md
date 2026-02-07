@@ -114,8 +114,8 @@
 
 <!-- Replace repo names if you want to show pinned cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=BMPL&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyanshpaila&repo=TaskFlow.&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
