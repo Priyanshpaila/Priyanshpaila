@@ -90,9 +90,7 @@
   <img src="https://streak-stats.demolab.com/?user=priyanshpaila&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshpaila&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshpaila&theme=tokyo-night&hide_border=true" />
