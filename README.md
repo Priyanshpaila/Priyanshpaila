@@ -83,10 +83,7 @@
 
 ## 📊 GitHub Analytics (Live)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshpaila&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpaila&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
-</p>
+
 
 <p align="center">
   <!-- ✅ FIXED URL: streak needs /?user= -->
