@@ -109,16 +109,6 @@
 ---
 
 
-
-## 🧩 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshpaila&repo=BMPL&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Priyanshpaila&repo=TaskFlow&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 ## 🐍 Contribution Snake (Animated)
 
 <p align="center">
